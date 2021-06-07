@@ -43,9 +43,9 @@ int main()
   int arr[max];
    int i,n,lb,ub;
    lb=0;
-   printf("RIZKI JANUAR IRMANSYAH\n");
- printf("20051397046\n");
- printf("MI_B_2020\n");
+   printf("ALFI NUR INAYATI NINGRUM\n");
+ printf("20051397063\n");
+ printf("MI_A_2020\n");
    cout<<"\tQUICK SORT\n\n";
    cout<<"Masukkan jumlah index : ";
    cin>>n;
