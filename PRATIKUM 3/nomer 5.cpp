@@ -5,8 +5,8 @@ int main () {
 int a = 0; //banyaknya element data
 int i; //untuk iterasi for
 int sum = 0, max = 0, min = 0;
- 		cout<<"RIZKI JANUAR IRMANSYAH \n";
-		cout<<"20051397046 \n";
+ 		cout<<"ALFI NUR INAYATI NINGRUM \n";
+		cout<<"20051397063\n";
 //minta user input banyaknya data
 cout << "Banyaknya element yang akan diinput :";
 cin >> a;
