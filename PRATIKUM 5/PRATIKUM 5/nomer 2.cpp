@@ -99,9 +99,9 @@ initQueue(&q);
 do
 {
 system("cls");
- printf("RIZKI JANUAR IRMANSYAH\n");
- printf("20051397046\n");
- printf("MI_B_2020\n");
+ printf("ALFI NUR INAYATI NINGRUM\n");
+ printf("20061397063\n");
+ printf("MI_A_2020\n");
 puts("Menu ");
 puts("1. Enqueue Element");
 puts("2. Dequeue Element");
