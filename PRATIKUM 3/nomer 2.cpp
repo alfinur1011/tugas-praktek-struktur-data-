@@ -91,9 +91,9 @@ int main()
 	ts.push2(15); 
 	ts.push1(11); 
 	ts.push2(7); 
-	cout<<"RIZKI JANUAR IRMANSYAH \n";
-	cout<<"20051397046 \n";
-	cout<<"MI_B_2020 \n";
+	cout<<"ALFI NUR INAYATI NINGRUM \n";
+	cout<<"20051397063 \n";
+	cout<<"MI_A_2020 \n";
 	cout << "Popped element from stack1 is "
 		<< " : " << ts.pop1() 
 		<< endl; 
