@@ -9,9 +9,9 @@ int main()
 
    //Input
    cout<<endl;
-   printf("RIZKI JANUAR IRMANSYAH\n");
- printf("20051397046\n");
- printf("MI_B_2020\n");
+   printf("ALFI NUR INAYATI NINGRUM\n");
+ printf("20051397063\n");
+ printf("MI_A_2020\n");
    cout<<"\n\t\t\tPengurutan Menaik Metode Shell Shot \n\n\n";
    cout<<"Masukkan Jumlah Data yg ingin di urutkan : ";cin>>n;
    cout<<endl;
