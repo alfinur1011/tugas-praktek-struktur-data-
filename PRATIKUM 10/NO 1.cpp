@@ -6,9 +6,9 @@ int main()
 for(int i=0;i<20;i++){
 cout<<A[i]<<" ";
 }
-printf("RIZKI JANUAR IRMANSYAH\n");
- printf("20051397046\n");
- printf("MI_B_2020\n");
+printf("ALFI NUR INAYATI NINGRUM\n");
+ printf("20051397063\n");
+ printf("MI_A_2020\n");
 cout<<"\nData yang ingin dicari : ";
 cin>>c;
 i=0;
