@@ -4,9 +4,9 @@ void array(int [],int,int);
 int main(){
  int a[]={0,1,2,3,4,5,6,7,8};
  int x, i=8;
- printf("RIZKI JANUAR IRMANSYAH\n");
- printf("20051397046\n");
- printf("MI_B_2020\n");
+ printf("ALFI NUR INAYATI NINGRUM\n");
+ printf("20051397063\n");
+ printf("MI_A_2020\n");
  printf("Input x : ");scanf("%d", &x);
  array(a,x,i);
 }
